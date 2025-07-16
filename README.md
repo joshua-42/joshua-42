@@ -2,8 +2,8 @@
 
 ## 📈 Stats GitHub
 
-![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=joshua-42&show_icons=true&bg_color=000000&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-42&layout=compact&bg_color=000000&theme=radical)
+![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=joshua-42&show_icons=true&bg_color=1e293b&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-42&layout=compact&bg_color=1e293b&theme=radical)
 
 ## 🙋‍♂️ Présentation
 
