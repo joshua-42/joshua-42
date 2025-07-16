@@ -1,58 +1,40 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshua-42&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+# 👋 Hey, it's Joshua !
 
-###
+## 📈 Stats GitHub
 
-<h1 align="left">Hey 👋</h1>
+![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=joshua-42&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-42&layout=compact)
 
-###
+## 🙋‍♂️ Présentation
 
-<p align="left">My name is Joshua and I'm a a french programmer at 42 Angouleme School. I use c and c++</p>
+My name is Joshua and I'm a a french programmer at 42 Angouleme School. I use c and c++.
+📚 I'm currently learning vulkan and graphic programming
 
-###
 
-<h2 align="left">About me</h2>
+## 🛠️ Langages & Résumé
 
-###
+<table>
+  <tr>
+    <td>
+      <b>Langages utilisés :</b><br>
+      <br>
+      ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+      ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+      ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+      <br><br>
+      <b>Résumé :</b><br>
+      Sur mon GitHub, tu trouveras principalement des projets en <b>C</b>, <b>C++</b> et des scripts liés à <b>Git</b>.<br>
+      Je privilégie la simplicité, la clarté et l’apprentissage continu.<br>
+      Mes repos peuvent contenir des tests, des prototypes et des exercices personnels.
+    </td>
+    <td width="130">
+      <img src="https://media.tenor.com/Yap3Ps9srN4AAAAM/meowzzzz.gif" width="200"/>
+    </td>
+  </tr>
+</table>
 
-<p align="left">📚 I'm currently learning vulkan and graphic programming</p>
+## 📫 Me contacter
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://media.tenor.com/Yap3Ps9srN4AAAAM/meowzzzz.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-</div>
-
-###
-
-<h2 align="left">My social media</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/douglass-joshua-517a482a2/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/__josh_____" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/josh.dglss/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josh.dglss/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/douglass-joshua-517a482a2)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshua.douglass.nz@gmail.com)
