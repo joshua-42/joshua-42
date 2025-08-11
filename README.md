@@ -8,7 +8,7 @@
 ## 🙋‍♂️ Présentation
 
 My name is Joshua and I'm a a french programmer at 42 Angouleme School. I use c and c++.
-📚 I'm currently learning vulkan and graphic programming
+📚 I'm currently learning vulkan, graphic programming and cybersecurity (Rootme and tryhackme).
 
 
 ## 🛠️ Langages & Résumé
